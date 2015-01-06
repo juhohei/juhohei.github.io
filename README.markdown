@@ -1,1 +1,1 @@
-Built with [makepages](https://github.vcom/juhohei/makepages)
+Built with [makepages](https://github.com/juhohei/makepages)
